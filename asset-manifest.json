@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/MoviesHigherOrLower/static/css/main.6e732647.css",
-    "main.js": "/MoviesHigherOrLower/static/js/main.d02dcffd.js",
-    "static/media/logo.png": "/MoviesHigherOrLower/static/media/logo.4f4e61e524f0621e4be3.png",
-    "index.html": "/MoviesHigherOrLower/index.html",
-    "main.6e732647.css.map": "/MoviesHigherOrLower/static/css/main.6e732647.css.map",
-    "main.d02dcffd.js.map": "/MoviesHigherOrLower/static/js/main.d02dcffd.js.map"
+    "main.css": "/static/css/main.6e732647.css",
+    "main.js": "/static/js/main.81bee2bb.js",
+    "static/media/logo.png": "/static/media/logo.4f4e61e524f0621e4be3.png",
+    "index.html": "/index.html",
+    "main.6e732647.css.map": "/static/css/main.6e732647.css.map",
+    "main.81bee2bb.js.map": "/static/js/main.81bee2bb.js.map"
   },
   "entrypoints": [
     "static/css/main.6e732647.css",
-    "static/js/main.d02dcffd.js"
+    "static/js/main.81bee2bb.js"
   ]
 }
