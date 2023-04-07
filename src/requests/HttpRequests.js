@@ -3,7 +3,7 @@ import { generateRandomIndexes } from '../HelperFunctions/GenericHelperFunctions
 
 export async function getMovies() {
     const pageNumber = Math.floor(Math.random() * 501);
-    const url = `https://api.themoviedb.org/3/discover/movie?api_key=d2aa2a193948070849cc573738fc71ce&language=en-US&page=${pageNumber}`;
+    const url = `https://api.themoviedb.org/3/discover/movie?api_key=****&language=en-US&page=${pageNumber}`;
     
 
     const res = await axios.get(url).then(
@@ -21,7 +21,7 @@ export async function getMovies() {
 
 export async function getMovie() {
     const pageNumber = Math.floor(Math.random() * 501);
-    const url = `https://api.themoviedb.org/3/discover/movie?api_key=d2aa2a193948070849cc573738fc71ce&language=en-US&page=${pageNumber}`;
+    const url = `https://api.themoviedb.org/3/discover/movie?api_key=****&language=en-US&page=${pageNumber}`;
 
 
     const res = await axios.get(url).then(
