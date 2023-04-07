@@ -1,0 +1,2 @@
+C:\Users\phili\Desktop\MoviesHigherOrLower\MoviesHigherOrLower\MoviesHigherOrLower\obj\Debug\movieshigherorlower.esproj.SuggestedBindingRedirects.cache
+C:\Users\phili\Desktop\MoviesHigherOrLower\MoviesHigherOrLower\MoviesHigherOrLower\obj\Debug\movieshigherorlower.esproj.CoreCompileInputs.cache

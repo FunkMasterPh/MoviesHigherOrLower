@@ -1,25 +1,18 @@
-import logo from './logo.svg';
-import './App.css';
+import Layout from "./components/Layout";
+import React from "react";
+import Helmet  from "react-helmet";
 
 function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+    return (
+        <>
+        <Helmet>
+            <meta charSet="utf-8" />
+            <title>Higher Or Lower - Movie Edition</title>
+            <link rel="icon" type="image/png" href="logo.png" sizes="16x16" />
+        </Helmet>
+        <Layout></Layout>
+        </>
+    )
 }
 
 export default App;
